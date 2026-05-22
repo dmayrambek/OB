@@ -114,6 +114,10 @@ body {
   padding: 100px 0;
 }
 
+.tariffs h2 {
+  margin-bottom: 40px;
+}
+
 .tariff-grid {
   display: flex;
   gap: 30px;
@@ -144,20 +148,20 @@ body {
   margin-bottom: 10px;
 }
 
-.tariff-card button {
-  width: 100%;
+.btn {
+  display: block;
   padding: 12px;
+  text-align: center;
   background: #ff005c;
   color: white;
-  border: none;
+  text-decoration: none;
   border-radius: 10px;
 }
 
-/* CONDITIONS */
 .condition {
   margin-bottom: 15px;
-  font-size: 14px;
   color: #ccc;
+  font-size: 14px;
 }
 
 .highlight-condition {
