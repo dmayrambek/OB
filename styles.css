@@ -188,3 +188,38 @@ body {
 .premium {
   background: linear-gradient(135deg, #1a001f, #a3004f);
 }
+/* DETAIL PAGE */
+
+.hero.small {
+  padding: 80px 0;
+}
+
+.tariff-detail {
+  padding: 80px 0;
+}
+
+.block {
+  background: #111;
+  padding: 30px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.block h2 {
+  margin-bottom: 15px;
+}
+
+.block ul li {
+  margin-bottom: 10px;
+}
+
+.important {
+  border: 2px solid #ff005c;
+}
+
+.cta-box {
+  background: linear-gradient(135deg, #1a001f, #a3004f);
+  padding: 30px;
+  border-radius: 20px;
+  text-align: center;
+}
